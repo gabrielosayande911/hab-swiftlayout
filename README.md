@@ -1,4 +1,4 @@
-![The App Business](assets/logo.png)
+!![The App Business](assets/logo.png)
 
 # TABSwiftLayout
 
